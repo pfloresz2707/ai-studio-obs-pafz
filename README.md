@@ -80,13 +80,13 @@ https://huggingface.co/spaces/pfloresz/ai-studio-obs
 ![Clasificación](images/classify.png)
 
 ## Resumen de PDF
-![PDF Summary](images/pdf summary.png)
+![PDF Summary](images/pdf_summary.png)
 
 ## Traducción de PDF
-![PDF Translate](images/pdf translate.png)
+![PDF Translate](images/pdf_translate.png)
 
 ## Clasificación desde Excel
-![Excel Classification](images/excel classify.png)
+![Excel Classification](images/excel_classify.png)
 
 ## Análisis de sentimiento desde Excel
-![Excel Sentiment](images/excel sentiment.png)
+![Excel Sentiment](images/excel_sentiment.png)
