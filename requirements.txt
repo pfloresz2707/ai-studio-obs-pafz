@@ -1,0 +1,8 @@
+gradio
+requests
+pandas
+openpyxl
+PyPDF2
+python-dotenv
+transformers
+torch
